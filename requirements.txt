@@ -1,0 +1,16 @@
+catboost==1.2.8
+joblib==1.4.2
+keras==3.6.0
+matplotlib==3.10.8
+matplotlib-inline==0.2.1
+numpy==1.24.4
+openpyxl==3.1.2
+pandas==2.3.3
+pip ==26.0.1
+scikit-image==0.25.2
+scikit-learn==1.7.2
+scikit-optimize==0.10.2
+shap ==0.49.1
+streamlit==1.52.2
+xgboost==3.0.2
+
