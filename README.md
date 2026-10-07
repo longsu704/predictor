@@ -127,3 +127,12 @@ The left sidebar (**Function Navigation**) switches between the two modules.
 ## Note
 
 This tool is intended for research use only and must not be used for clinical decision-making.
+
+---
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Yu Sun, Soochow University.
+
